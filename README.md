@@ -1,6 +1,6 @@
 # Local Small Language Agent
 
-Language model-based agents promise the ability to grant flexibility
+Language model-based agents can provide the ability to grant flexibility
 and adaptability in order to answer requests from users expressed in
 natural language.
 
