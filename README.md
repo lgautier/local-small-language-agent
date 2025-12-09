@@ -5,7 +5,8 @@ and adaptability in order to answer requests from users expressed in
 natural language.
 
 Language model-based agents can answer by solely recalling
-information that was in their training data, or identify (software) tools
+information that was in their training data, or through pattern
+matching identify (software) tools
 as intermediate steps to answer a request. Since agents are programs,
 their ability to generate code combined makes them metaprograms:
 they can generate code. However, that added
