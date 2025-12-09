@@ -7585,8 +7585,6 @@ jupyter cell with the code below, or replace the podman cell above with it.</p>
 !<span class="w"> </span>curl<span class="w"> </span>-fsSL<span class="w"> </span>https://ollama.com/install.sh<span class="w"> </span><span class="p">|</span><span class="w"> </span>sh
 !<span class="w"> </span><span class="nb">echo</span><span class="w"> </span><span class="k">$(</span>tput<span class="w"> </span>setaf<span class="w"> </span><span class="m">1</span><span class="k">)</span><span class="s2">"Starting Ollama server."</span><span class="k">$(</span>tput<span class="w"> </span>setaf<span class="w"> </span><span class="m">0</span><span class="k">)</span>
 !<span class="w"> </span>nohup<span class="w"> </span>ollama<span class="w"> </span>serve<span class="w"> </span>&gt;<span class="w"> </span>ollama.log<span class="w"> </span><span class="m">2</span>&gt;<span class="p">&amp;</span><span class="m">1</span><span class="w"> </span><span class="p">&amp;</span>
-!<span class="w"> </span><span class="nb">echo</span><span class="w"> </span><span class="k">$(</span>tput<span class="w"> </span>setaf<span class="w"> </span><span class="m">1</span><span class="k">)</span><span class="s2">"Pulling LLM Gemma3."</span><span class="k">$(</span>tput<span class="w"> </span>setaf<span class="w"> </span><span class="m">0</span><span class="k">)</span>
-!<span class="w"> </span>ollama<span class="w"> </span>pull<span class="w"> </span>gemma3:12b<span class="w"> </span>&gt;<span class="w"> </span>ollama_pull.log<span class="w"> </span><span class="m">2</span>&gt;<span class="p">&amp;</span><span class="m">1</span>
 </pre></div>
 </div>
 </div>
