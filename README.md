@@ -1,3 +1,5 @@
+HTML render of the tutorial notebook here: https://lgautier.github.io/local-small-language-agent/
+
 # Local Small Language Agent
 
 Language model-based agents can provide the ability to grant flexibility
