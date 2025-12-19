@@ -37,7 +37,7 @@ code can run from a Jupyter notebook.
 - Python (likely >= 3.10)
 - `podman` (or own install of `ollama`)
 - internet connection to fetch language models using `ollama`
-- Python packages such as `langchain`, `langchain_ollama`, and `ollama`
+- Python packages such as `jinja2`, `langchain`, `langchain_ollama`, and `ollama`
 
 ## Quick start
 
